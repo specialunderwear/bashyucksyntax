@@ -11,7 +11,7 @@ Now go ahead, pipe that to a file and never write anymore bash scripts ahahahah.
 Incomplete
 ==========
 
-Hi only implemented the things I needed myself, so it could be that your
+Hi, I only implemented the things I needed myself, so it could be that your
 fabfile will still try to run some of the commands.
 
 HOWEVER.
