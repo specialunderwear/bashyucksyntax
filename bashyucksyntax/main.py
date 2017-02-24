@@ -1,2 +1,3 @@
-def main():
-    pass
+import bashyucksyntax.fabric
+
+from fakeric.main import main

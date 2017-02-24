@@ -1,8 +1,9 @@
 """
-This this thing patch the fab binary so it will accept the --dry-run flag
+This this thing give you a command called ``dryfab``, you can use instead of
+fab.
 
-If you add that flag, fab will just show the commands it runs instead of
-running them. So go ahead, pipe that to a file and never write anymore bash
+If use ``dryfab``, it will just show the commands fabric would run instead of
+executing them. So go ahead, pipe that to a file and never write anymore bash
 script ahhahaha.
 """
 
@@ -42,7 +43,7 @@ setup(
     # generate scripts
     entry_points={
         'console_scripts':[
-            'fab = bashyucksyntax.main:main',
+            'dryfab = bashyucksyntax.main:main',
         ]
     }
 )
