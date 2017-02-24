@@ -1,3 +1,3 @@
-import bashyucksyntax.fabric
+import bashyucksyntax.fakeric
 
-from fakeric.main import main
+from fabric.main import main
