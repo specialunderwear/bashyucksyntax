@@ -2,9 +2,9 @@
 This this thing give you a command called ``dryfab``, you can use instead of
 fab.
 
-If use ``dryfab``, it will just show the commands fabric would run instead of
-executing them. So go ahead, pipe that to a file and never write anymore bash
-script ahhahaha.
+when using ``dryfab`` instead of ``fab``, it will just show the commands fabric
+would run instead of executing them. So go ahead, pipe that to a file and never
+write anymore bash scripts ahhahaha.
 """
 
 from setuptools import setup, find_packages

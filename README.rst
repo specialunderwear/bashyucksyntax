@@ -6,6 +6,7 @@ as fabric, BUT!
 
 It will only print the commands it will run, instead of executing them.
 
+Now go ahead, pipe that to a file and never write anymore bash scripts ahahahah.
 
 Incomplete
 ==========
